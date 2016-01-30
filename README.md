@@ -1,7 +1,7 @@
 # Objective-C Hello World
 
 ## Instructions
-There is a lot going on in even the most basic iOS application. In this simple app, we are going to add the traditional "Hello World" message as in a console log statement. Open the `Hello.xcodeproj` file to open the project in Xcode.
+In this simple app, we are going to add the traditional "Hello World" message as in a console log statement. Open the `Hello.xcodeproj` file to open the project in Xcode.
 
 Submit the assignment by submitting a pull request. The steps to do that are as follows:
 
